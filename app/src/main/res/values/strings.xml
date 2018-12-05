@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz_app</string>
+    <string name="firstQuiz">1.What IDE is used for developing Android apps?</string>
+    <string name="Androidstudio">Android Studio</string>
+    <string name="Xcode">Xcode</string>
+    <string name="secondquiz">2.Select the correct layout for android</string>
+    <string name="Linear">LinearLayout</string>
+    <string name="Vertical">VerticalLayout</string>
+    <string name="Horizontal">HorizontalLyout</string>
+    <string name="third_quiz">3.What is the IDE for developing apple applications?</string>
+    <string name="fourthquiz">4.Select two orientation of LinearLayout</string>
+    <string name="vertical">Vertical Orientation</string>
+    <string name="Relative">Relative orientation</string>
+    <string name="horizontal_orientation">Horizontal orientation</string>
+    <string name="Submit_button">Submit</string>
+    <string name="Introductoryline">Please answer the following questions</string>
+    <string name="fifthquestion">5.What are the various text attribute?</string>
+    <string name="textstyle">textStyle attribute</string>
+    <string name="textvisibility">textVisibility attribute</string>
+    <string name="orientation">orientation attribute</string>
+    <string name="Reset_btn">Retry</string>
+</resources>
